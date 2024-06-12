@@ -12,7 +12,7 @@ N/A
 
 Use of this page is inteded to allow future opportunties to see my work and asses whether my skills are a good fit for their organization. 
 
-Link to deployed site: 
+Link to deployed site: https://alstonjohnson.github.io/alston-johnson-portfolio/#photography
 
 ## Credits
 
